@@ -1,0 +1,27 @@
+img{
+    width: 600px;
+}
+body{
+    background-color: bisque;
+}
+h1{
+    text-align: center;
+    color: black;
+    font-size: 45px;
+}
+p{
+    text-align: center;
+    color: black;
+    font-size: 25px;
+}
+.cabecalho{
+    background-color: beige;
+    display: flex;
+}
+.logoimg{
+    width: 90px;
+    height: 90px;
+}
+.listacabecalho{
+    display: ;
+}
